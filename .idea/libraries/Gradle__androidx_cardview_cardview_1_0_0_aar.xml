@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.cardview:cardview:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a01131b7bcfa24aa3ce2050acbf8647d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a01131b7bcfa24aa3ce2050acbf8647d/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a01131b7bcfa24aa3ce2050acbf8647d/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7c5c2b7a963ce4ef3bc88c5708443923/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7c5c2b7a963ce4ef3bc88c5708443923/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7c5c2b7a963ce4ef3bc88c5708443923/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a578339409c352c98930c899a1def532/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a578339409c352c98930c899a1def532/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a578339409c352c98930c899a1def532/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
